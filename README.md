@@ -16,12 +16,13 @@ Built with **HTML, CSS, and JavaScript (jQuery)** — lightweight, responsive, a
 
 ## 📁 Project Structure
 ```
-
 discord-webhook-deleter/
-├── index.html   # Main page
-├── style.css    # Styling and animation
-└── script.js    # Logic and interactions
-
+├── src/
+│   ├── index.html   # Main page
+│   ├── style.css    # Styling and animation
+│   └── script.js    # Logic and interactions
+└── media/
+└── preview.png  # Screenshot or demo image
 ````
 
 ---
@@ -30,7 +31,7 @@ discord-webhook-deleter/
 1. Clone or download the repository:
    ```bash
    git clone https://github.com/your-username/discord-webhook-deleter.git
-````
+   ```
 
 2. Open `index.html` in your browser.
 3. Paste a valid Discord webhook URL.
